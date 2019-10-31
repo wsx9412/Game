@@ -1,7 +1,7 @@
 # class-web
 
-![홈](https://raw.githubusercontent.com/wsx9412/web/master/django/class-web-master/register.PNG?raw=true)
-
+![0](https://github.com/wsx9412/Game/blob/master/Picture/0.JPG?raw=true)  
+  
 대학교에서 진행한 창업동아리의 활동으로 게임을 제작하여 최종적으로 Google PlayStore에 출시하여 서비스 중인 게임 "용병 랜덤 디펜스"의 제작과정, 기본적인 게임 내용은 랜덤으로 유닛을 뽑아서 몰려오는 적으로부터 거점을 지키는 게임으로 현재는 100라운드를 최종라운드로 하고있지만, 무한모드 또한 개발하여 배포 완료
 
 ---
@@ -59,7 +59,7 @@
 각 등급간의 차이를 확실히 확인하기 위해 텍스트 색의 차이를 두도록 하였습니다.  
 재료를 넣기 위한 버튼으로는 + 버튼을 이용한 수동방식과 자동채우기를 이용한 방식이 존재합니다.  
 
-![9](https://github.com/wsx9412/Game/blob/master/Picture/9.JPG?raw=true)  
+![9](https://github.com/wsx9412/Game/blob/master/Picture/9.jpg?raw=true)  
 
 + 버튼을 누를 경우 이런 식으로 현재 가지고 있는 유닛들의 정보가 나오는데 이때 유닛의 정보를 읽어올 때에는 현재 조합식에 등록되어있는 유닛의 종류, 등급을 이용하여 퀵슬롯에서 불러온 정보를 읽어오는 것입니다. 이 유닛을 클릭할 경우 회색으로 활성화가 되는데 이는 Toggle을 이용하여 구현했습니다, 그 상태에서 우측 하단의 확인 버튼을 누르면  
 
